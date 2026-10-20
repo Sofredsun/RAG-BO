@@ -1,0 +1,12 @@
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+optuna>=4.0
+sentence-transformers
+torch
+transformers>=4.40
+truststore
+nltk
+huggingface_hub
